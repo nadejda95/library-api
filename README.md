@@ -41,3 +41,7 @@ Prerequisites: installed locally or remote mongodb.
 # e2e tests
 $ npm run test:e2e
 ```
+
+# Swagger
+
+Open http://localhost:3000/api for using Swagger.
